@@ -1,0 +1,12 @@
+name: ct_model
+title:
+username:
+account: kleykamp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2507328
+bundleId: 3345311
+url: https://kleykamp.shinyapps.io/ct_model/
+when: 1593722352.76242
+asMultiple: FALSE
+asStatic: FALSE
